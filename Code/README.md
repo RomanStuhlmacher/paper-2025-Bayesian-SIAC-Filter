@@ -13,7 +13,7 @@ cd paper-2025-Bayesian-SIAC-Filter
 cd Code/notebooks
 ```
 
-To be able to run the notebooks you need _jupyter_ or an editor that can execute jupyter notebooks. To execute a notebook using _jupyter_ you need the _IJulia_ package. To install the _IJulia_ package start julia in the _notebooks_ directory and run:
+To be able to run the notebooks you need `jupyter` or an editor that can execute jupyter notebooks. To execute a notebook using `jupyter` you need the `IJulia` package. To install the `IJulia` package start `julia` in the _notebooks_ directory and run:
 
 ```julia
 ]
