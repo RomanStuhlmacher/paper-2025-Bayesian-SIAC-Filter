@@ -54,10 +54,10 @@ The Cartesian mesh numerical experiments were carried out using Julia v1.9.4 and
 
 # Authors
 
-Jan Glaubitz (Linköping University, Sweden)
-Tongtong Li (University of Maryland, USA)
-Jennifer Ryan (KTH Royal Institute of Technology, Sweden)
-Roman Stuhlmacher (KTH Royal Institute of Technology, Sweden)
+- Jan Glaubitz (Linköping University, Sweden)
+- Tongtong Li (University of Maryland, USA)
+- Jennifer Ryan (KTH Royal Institute of Technology, Sweden)
+- Roman Stuhlmacher (KTH Royal Institute of Technology, Sweden)
 
 # Disclaimer
 
