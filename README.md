@@ -47,9 +47,9 @@ In addition, it extends naturally to general data models and provides built-in U
 
 # Numerical experiments
 
-The subfolder code of this repository contains a README.md file with instructions to reproduce the Cartesian mesh numerical experiments and the subfolder code_curved contains a README.md file with instructions to reproduce the curvilinear mesh numerical experiments.
+The subfolder _Code_ of this repository contains a README.md file with instructions to reproduce the numerical experiments.
 
-The Cartesian mesh numerical experiments were carried out using Julia v1.9.4 and the curvilinear mesh results were carried out using Julia 1.10.0.
+The numerical experiments were carried out using Julia v1.11.4.
 
 
 # Authors
