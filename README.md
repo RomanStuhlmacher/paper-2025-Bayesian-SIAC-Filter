@@ -24,7 +24,7 @@ If you find these results useful, please cite the article mentioned above. If yo
 ```latex
 @misc{glaubitz2025generalizedRepro,
   title={Reproducibility repository for
-         "{T}he Bayesian SIAC filter"},
+         "The Bayesian SIAC filter"},
   author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and
           Stuhlmacher, Roman},
   year={2025},
