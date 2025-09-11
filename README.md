@@ -1,4 +1,4 @@
-# paper-2025-Bayesian-SIAC-
+# paper-2025-Bayesian-SIAC-Filter
 Reproducibility repository for the paper "The Bayesian SIAC filter"
 
 ```latex
