@@ -28,8 +28,7 @@ If you find these results useful, please cite the article mentioned above. If yo
   author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and
           Stuhlmacher, Roman},
   year={2025},
-  howpublished={},
-  doi={}
+  \url{https://github.com/RomanStuhlmacher/paper-2025-Bayesian-SIAC-Filter}
 }
 ```
 
