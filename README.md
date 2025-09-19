@@ -54,7 +54,7 @@ The numerical experiments were carried out using Julia v1.11.4.
 # Authors
 
 - [Jan Glaubitz](https://www.janglaubitz.com) (Linköping University, Sweden)
-- [Tongtong Li](https://tongtong-li.github.io) (University of Maryland, USA)
+- [Tongtong Li](https://tongtong-li.github.io) (University of Maryland, Baltimore County, USA)
 - [Jennifer Ryan](https://sites.google.com/view/jennifer-k-ryan/home) (KTH Royal Institute of Technology, Sweden)
 - [Roman Stuhlmacher](https://www.kth.se/profile/romanst?l=en) (KTH Royal Institute of Technology, Sweden)
 
