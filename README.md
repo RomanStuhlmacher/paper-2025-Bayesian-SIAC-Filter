@@ -2,19 +2,11 @@
 Reproducibility repository for the paper "The Bayesian SIAC filter"
 
 ```latex
-@article{glaubitz2025Bayesian,
-  title={The Bayesian SIAC filter},
-  author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and
-          Stuhlmacher, Roman},
-  journal={},
-  volume={},
-  pages={},
-  year={2025},
-  month={},
-  doi={},
-  eprint={},
-  eprinttype={},
-  eprintclass={}
+@article{glaubitz2025bayesian,
+  title={The {B}ayesian {SIAC} filter},
+  author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and Stuhlmacher, Roman},
+  journal={arXiv preprint arXiv:2509.14771},
+  year={2025}
 }
 ```
 
@@ -24,7 +16,7 @@ If you find these results useful, please cite the article mentioned above. If yo
 ```latex
 @misc{glaubitz2025BayesianRepro,
   title={Reproducibility repository for
-         The Bayesian {SIAC} filter},
+         The {B}ayesian {SIAC} filter},
   author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and
           Stuhlmacher, Roman},
   year={2025},
