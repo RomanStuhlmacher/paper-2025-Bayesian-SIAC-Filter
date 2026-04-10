@@ -21,6 +21,7 @@ If you find these results useful, please cite the article mentioned above. If yo
           Stuhlmacher, Roman},
   year={2025},
   howpublished={\url{https://github.com/RomanStuhlmacher/paper-2025-Bayesian-SIAC-Filter}}
+  doi={10.5281/zenodo.19495438}
 }
 ```
 
