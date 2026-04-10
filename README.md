@@ -16,11 +16,11 @@ If you find these results useful, please cite the article mentioned above. If yo
 ```latex
 @misc{glaubitz2025BayesianRepro,
   title={Reproducibility repository for
-         The {B}ayesian {SIAC} filter},
+    ``The {B}ayesian {SIAC} filter''},
   author={Glaubitz, Jan and Li, Tongtong and Ryan, Jennifer and
           Stuhlmacher, Roman},
   year={2025},
-  howpublished={\url{https://github.com/RomanStuhlmacher/paper-2025-Bayesian-SIAC-Filter}}
+  howpublished={\url{https://github.com/RomanStuhlmacher/paper-2025-Bayesian-SIAC-Filter}}, 
   doi={10.5281/zenodo.19495438}
 }
 ```
